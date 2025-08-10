@@ -1,4 +1,4 @@
-e<?php
+<?php
 /*
 Plugin Name: Simple SEO Post Plugin
 Description: A plugin to add SEO fields (meta title, description, and keywords) to posts.
